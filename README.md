@@ -58,6 +58,8 @@ node PracticeQsn.js
 - Instance methods and properties
 - `this` keyword binding
 
+## JavaScript_OOP_Masterclass.pdf
+File is included in this repository, but GitHub may not display it in-browser because it is too large for the built-in preview. Please download the file to view it locally.
 ## License
 
 Open source for educational purposes.
